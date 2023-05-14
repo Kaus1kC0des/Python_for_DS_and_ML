@@ -1,0 +1,133 @@
+cars_brand,cars_name,cars_name
+Audi,Audi Q3,7
+Audi,Audi A4,3
+Audi,Audi A6,3
+Audi,Audi A3,1
+BMW,BMW 3 Series,6
+BMW,BMW 5 Series,5
+BMW,BMW X1,2
+BMW,BMW X3,1
+Chevrolet,Chevrolet Cruze,1
+Datsun,Datsun Redi Go,21
+Datsun,Datsun Go Plus,1
+Fiat,Fiat Grand Punto,1
+Fiat,Fiat Punto EVO,1
+Ford,Ford Ecosport,213
+Ford,Ford Figo Aspire,21
+Ford,Ford New Figo,10
+Ford,Ford Figo,9
+Ford,Ford FREESTYLE,7
+Ford,Ford Endeavour,1
+HYUNDAI,HYUNDAI NEW I20,1
+Honda,Honda City,96
+Honda,Honda Amaze,57
+Honda,Honda Jazz,57
+Honda,Honda Brio,35
+Honda,Honda WR-V,32
+Honda,Honda Civic,6
+Honda,Honda BR-V,4
+Honda,Honda CRV,3
+Honda,Honda Mobilio,1
+Hyundai,Hyundai Grand i10,314
+Hyundai,Hyundai Elite i20,218
+Hyundai,Hyundai Creta,89
+Hyundai,Hyundai Verna,71
+Hyundai,Hyundai Eon,68
+Hyundai,Hyundai i20,55
+Hyundai,Hyundai i10,53
+Hyundai,Hyundai VENUE,48
+Hyundai,Hyundai NEW SANTRO,45
+Hyundai,Hyundai i20 Active,28
+Hyundai,Hyundai Xcent,22
+Hyundai,Hyundai GRAND I10 NIOS,19
+Hyundai,Hyundai Tucson New,6
+Hyundai,Hyundai New Elantra,5
+Hyundai,Hyundai AURA,2
+Hyundai,Hyundai Santro Xing,2
+Hyundai,Hyundai NEW I20,1
+ISUZU,ISUZU D-MAX S-CAB,1
+Jaguar,Jaguar XF,1
+Jeep,Jeep Compass,28
+KIA,KIA SELTOS,20
+Landrover,Landrover Freelander 2,1
+MG,MG HECTOR,28
+MG,MG HECTOR PLUS,1
+Mahindra,Mahindra XUV500,29
+Mahindra,Mahindra Scorpio,16
+Mahindra,Mahindra TUV300,11
+Mahindra,Mahindra XUV 3OO,3
+Mahindra,Mahindra KUV 100 NXT,2
+Mahindra,Mahindra Kuv100,2
+Mahindra,Mahindra MARAZZO,2
+Mahindra,Mahindra Thar,1
+Mahindra,Mahindra Xylo,1
+Maruti,Maruti Swift,298
+Maruti,Maruti Baleno,292
+Maruti,Maruti Alto 800,236
+Maruti,Maruti Wagon R 1.0,209
+Maruti,Maruti Alto K10,183
+Maruti,Maruti Vitara Brezza,165
+Maruti,Maruti Swift Dzire,126
+Maruti,Maruti Celerio,101
+Maruti,Maruti Dzire,99
+Maruti,Maruti Alto,95
+Maruti,Maruti Eeco,73
+Maruti,Maruti Ciaz,59
+Maruti,Maruti IGNIS,54
+Maruti,Maruti Ertiga,53
+Maruti,Maruti S Cross,51
+Maruti,Maruti S PRESSO,34
+Maruti,Maruti Ritz,22
+Maruti,Maruti New  Wagon-R,20
+Maruti,Maruti XL6,10
+Maruti,Maruti Zen Estilo,6
+Maruti,Maruti A Star,5
+Maruti,Maruti Celerio X,5
+Maruti,Maruti OMNI E,4
+Maruti,Maruti Wagon R,4
+Maruti,Maruti Wagon R Stingray,2
+Maruti,Maruti SX4,1
+Maruti,Maruti Zen,1
+Mercedes,Mercedes Benz E Class,4
+Mercedes,Mercedes Benz C Class,3
+Mercedes,Mercedes Benz CLA Class,3
+Mercedes,Mercedes Benz B Class,2
+Mercedes,Mercedes Benz GLC CLASS,1
+Nissan,Nissan Micra,6
+Nissan,Nissan Terrano,3
+Nissan,Nissan MAGNITE,1
+Nissan,Nissan Micra Active,1
+RENAULT,RENAULT Kiger,1
+Renault,Renault Kwid,106
+Renault,Renault Duster,23
+Renault,Renault TRIBER,14
+Renault,Renault Captur,3
+Renault,Renault Kiger,1
+Renault,Renault Lodgy,1
+Skoda,Skoda Rapid,13
+Skoda,Skoda Octavia,4
+Skoda,Skoda Superb,4
+Skoda,Skoda Laura,1
+Tata,Tata Tiago,45
+Tata,Tata NEXON,15
+Tata,Tata Hexa,14
+Tata,Tata Nano,7
+Tata,Tata Harrier,4
+Tata,Tata ALTROZ,3
+Tata,Tata TIGOR,3
+Tata,Tata Manza,1
+Tata,Tata Safari Storme,1
+Tata,Tata Zest,1
+Toyota,Toyota Innova,28
+Toyota,Toyota Etios Liva,17
+Toyota,Toyota Corolla Altis,15
+Toyota,Toyota Fortuner,15
+Toyota,Toyota Innova Crysta,10
+Toyota,Toyota Etios,9
+Toyota,Toyota Glanza,6
+Toyota,Toyota YARIS,6
+Volkswagen,Volkswagen Polo,55
+Volkswagen,Volkswagen Vento,16
+Volkswagen,Volkswagen Ameo,15
+Volkswagen,Volkswagen Jetta,1
+Volkswagen,Volkswagen TIGUAN,1
